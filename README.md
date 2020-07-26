@@ -9,3 +9,6 @@
 
 
 [![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=JUA96)](https://github.com/JUA96/github-readme-stats)
+
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUA96)](https://github.com/JUA96/github-readme-stats)
