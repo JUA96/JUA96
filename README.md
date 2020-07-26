@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... on a data science project 
-- 🌱 I’m currently learning ... data mining and geospatial analysis in Python
-- 👯 I’m looking to collaborate on ... data and machine learning projects
-- 🤔 I’m looking for help with ... NLP for unstructured text data
+- 🔭 I’m currently working on ... on a web scraping and data mining project in Python
+- 🌱 I’m currently learning ... geospatial analysis in Python
+-🧑🏾‍🤝‍🧑🏾 I’m looking to collaborate on ... on projects that combine political science and data science
+- 🤔 I’m looking for help with ... NLP for unstructured text and social media data
 - 💬 Ask me about ... Sentiment analysis in R and Python
-- 📫 How to reach me: ... joseph.arber1@gmail.com
+- 📥 How to reach me: ... joseph.arber1@gmail.com
+- 👔 For jobs and oppurtunities ... https://www.linkedin.com/in/josepharber/
 
-![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=jUA96&show_icons=true&theme=radical)
+ ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=jUA96&show_icons=true&theme=radical)
 
 ### Domain Knowledge:
 
