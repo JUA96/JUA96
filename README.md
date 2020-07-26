@@ -15,8 +15,7 @@
 - Economics/Econometrics
 - Behavioural Science
 - Public Policy Evaluation
-- Finance
-- Business Management 
+- Business  
 
 ### Data Science AOI:
 
@@ -42,13 +41,6 @@
 - Predictive Analytics
 - Machine Learning (Classification, Regression, Clustering)
 - Data Mining
-
-### Language Expertise:
-
-- Python
-- R
-- SQL 
-- Java
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUA96)](https://github.com/JUA96/github-readme-stats&theme=radical)
 
