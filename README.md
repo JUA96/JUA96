@@ -8,8 +8,7 @@
 - 📥 How to reach me: ... joseph.arber1@gmail.com
 - 👔 For jobs and oppurtunities ... https://www.linkedin.com/in/josepharber/
 
- ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=jUA96&show_icons=true&theme=radical)
-
+ ![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=jUA96&show_icons=true&theme=radical)  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUA96)](https://github.com/JUA96/github-readme-stats&theme=radical)
 ### Domain Knowledge:
 
 - Political Science
@@ -43,7 +42,6 @@
 - Machine Learning (Classification, Regression, Clustering)
 - Data Mining
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUA96)](https://github.com/JUA96/github-readme-stats&theme=radical)
 
 ### IDEs:
 
