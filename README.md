@@ -22,7 +22,7 @@
 - Sentiment Analysis
 - NLP
 - Geospatial 
-- API/Json 
+- Customer Segmentation
 - Social Media Network Analysis
 
 ### Statistical/Econometrics Expertise:
