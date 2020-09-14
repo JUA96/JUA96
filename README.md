@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... on a web scraping and data mining project in Python
-- 🌱 I’m currently learning ... geospatial analysis in Python
+- 🌱 I’m currently learning how to do ... geospatial analysis in Python
 - 🧑🏾‍🤝‍🧑🏾 I’m looking to collaborate on ... on projects that combine political science and data science
-- 🤔 I’m looking for help with ... NLP for unstructured text and social media data
+- 🤔 I’m looking for help with ... NLP for unstructured text, and specifically social media data
 - 💬 Ask me about ... Sentiment analysis in R and Python
 - 📥 How to reach me: ... joseph.arber1@gmail.com
 - 👔 For jobs and oppurtunities ... https://www.linkedin.com/in/josepharber/
