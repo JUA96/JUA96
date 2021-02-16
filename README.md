@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... on a web scraping and data mining project with Python
-- 🌱 I’m currently learning how to do ... geospatial analysis in Python
+- 🔭 I’m currently working on ... on a Streamlit app that will visualise the sentiment of Tweet Data!
+- 🌱 I’m currently learning how to do ... build my personal website with Go Hugo
 - 🧑🏾‍🤝‍🧑🏾 I’m looking to collaborate on ... on projects that combine political science and data science
 - 🤔 I’m looking for help with ... NLP for unstructured text, and specifically social media data
 - 💬 Ask me about ... Sentiment analysis in R and Python
@@ -15,11 +15,11 @@
 - Economics/Econometrics
 - Behavioural Science
 - Public Policy Evaluation
-- Business  
+- Business Intelligence
 
 ### Data Science AOI:
 
-- Sentiment Analysis
+- Sentiment Analysis and NLP
 - NLP
 - Geospatial 
 - Customer Segmentation
